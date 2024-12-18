@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Wen
 - 👀 I’m interested in crochet and scuba diving!
+- 🏠 Based in Melbourne, Australia.
+- 🏫 Studying Information Technology at Monash.
 - 🌱 I’m currently learning frontend and about to learn machine learning and backend on coursera.
 - ⚡ Fun fact: I am 25 years old and have travel 25 states in 4 continents.
 
